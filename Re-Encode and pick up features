@@ -1,0 +1,6 @@
+For categorical variables, plot the correlation graph to understand whether the features that shared common characteristics
+
+If some features have Nans during the re-encoding process, use Imputer to subsitute with means.
+
+and use StandardScaler to scale all the features
+
