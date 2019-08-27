@@ -1,0 +1,10 @@
+In general in any Customer Segmentation Report one can create customer segmentation and compare to general population, 
+one can know which part of the general population are more likely to be customer and which part are not
+
+1. Different approaches to pre-process the data (Data pre-processing: clean and re-encode data)
+
+2. Unsupervised learning techniques, PCA (Principle Componets Analysis) and 
+  k-NN (k-nearest neighbor algorithm), to perform customer segmentation 
+
+3. Prediction: use the demographic features to predict whether or not a person became a customer after a mailout campaign
+
