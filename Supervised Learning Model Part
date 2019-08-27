@@ -1,0 +1,15 @@
+Supervised Learning Model Part
+
+Data is separated into training data and test data. 
+
+However, for good results it must have good precision 
+
+the performance of models are not good if it has resulted from the biased data distribution (label)
+
+
+Improvement
+
+In order to increase the performance of the supervised learning model, the following parts might be conducted.
+1. The methods that deal with unbalanced data: under-sampling or over- sampling
+2. Increase PCA components
+3. Use only the PCA components as independent variables
