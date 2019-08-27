@@ -1,0 +1,9 @@
+Metrics
+
+In the segmentation part, explained variance ratio is be used in the PCA process. 
+
+Explained variance accounts for the ability to describe the whole feature variance, 
+the more the explained variance, the more import of the component.
+
+
+In the supervised model prediction parts, precision is mainly used as main metric
