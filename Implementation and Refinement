@@ -1,0 +1,15 @@
+From  (Say) N features,conduct PCA to extract import features of the general population 
+
+Knowing the main explained variance for each attribute,decide how many components to selects based on variance 
+
+amounts to ~ 95% of total variance (PCA = (no_compontes = N))
+
+
+
+After selecting the main PCA componets, We can use KMeans method to apply clustering. 
+
+In order to decide how many clusters to select then investigate the number of clusterings to the KMeans score
+
+Say for example when the number of clusterings increases to about 30, 
+the error (score) gets low enough and does not change rapidly. Therefore, I chose 30 as the number of clusterings
+
